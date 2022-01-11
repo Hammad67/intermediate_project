@@ -1,2 +1,0 @@
-class MyFoo < ApplicationRecord
-end
